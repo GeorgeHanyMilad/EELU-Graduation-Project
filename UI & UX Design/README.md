@@ -4,4 +4,4 @@
 
 ## 📱 Mobile Slide Preview
 
-<img src="./assets/mobile-slide.png" alt="Mobile Slide" width="300"/>
+<img src="https://github.com/GeorgeHanyMilad/EELU-Graduation-Project/blob/master/UI%20&%20UX%20Design/PlantyCare%20App.jpg?raw=true" alt="Mobile Slide" width="300"/>
